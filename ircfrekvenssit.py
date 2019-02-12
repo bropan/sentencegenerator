@@ -33,45 +33,13 @@ with open(fileName,"r") as filu:
                 
                 pre = sana
 
-    #for key in sorted(frequencies,key=lambda x: frequencies[x]):
-    #    print(key,frequencies[key])
-
     print("Unique words:",len(frequencies))
 
-    print("Predecessors length:",len(predecessors))
-
-    #print("PREDECESSORS:")
-    #for key in sorted(predecessors,key=lambda x: len(predecessors[x])):
-    #    print(key,"->")
-    #    print("------------------------------------------------------")
-    #    print(predecessors[key])
-    #    print("------------------------------------------------------")
-    #    print()
+    print("Predecessors length:",len(predecessors)
 
     import random
     preKeys = [x for x in predecessors.keys()]
     random.shuffle(preKeys)
-    #for i in range(0,50):
-    #    tulostetut = []
-    #    key = preKeys[i]
-    #    pre = key
-    #    if len(predecessors[pre]) > 0:
-    #        print(pre,end=" ")
-    #        nextKeys = list(predecessors[pre])
-    #        random.shuffle(nextKeys)
-    #        nextKey = nextKeys[0]
-    #        while nextKey in predecessors and len(predecessors[nextKey]) > 0 and nextKey not in tulostetut:
-    #            pre = nextKey
-    #            print(pre,end=" ")
-    #            tulostetut.append(pre)
-    #            if len(predecessors[pre]) > 0:
-    #                nextKeys = list(predecessors[pre])
-    #                random.shuffle(nextKeys)
-    #                nextKey = nextKeys[0]
-    #            else:
-    #                break
-    #        print()
-    #        print("---")
             
     lauseita = 0
     i = 0
