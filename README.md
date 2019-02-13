@@ -7,10 +7,10 @@ Some examples of output when using a specific Irssi logfile containing mostly Fi
 ```
 välillä kyl jo olla käyttöliittymän suunnittelu perusteet -kurssin luento aiheesta rationaaliluvun desimaaliesitys
 
- iha läpäl vaan google antaa sille opettajalle emailia ympäriinsä jos tarvitaan joku c-kurssilla
+iha läpäl vaan google antaa sille opettajalle emailia ympäriinsä jos tarvitaan joku c-kurssilla
 
 
- kasvavat puut virittävät puut virittävät puut metsät eulerin graafit hamiltonin graafit tasograafit
+kasvavat puut virittävät puut virittävät puut metsät eulerin graafit hamiltonin graafit tasograafit
 ```
 
 
